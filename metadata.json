@@ -1,0 +1,6 @@
+{
+  "name": "LiduaN",
+  "description": "Marketplace khusus mahasiswa kampus untuk membeli, menjual, dan bertukar kebutuhan akademik dan non-akademik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
